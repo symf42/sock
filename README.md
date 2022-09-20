@@ -1,6 +1,6 @@
 # sock
 
-![shields.io - license - MIT](https://img.shields.io/github/license/symf/sock)
+![shields.io - license - MIT](https://img.shields.io/github/license/symf42/sock)
 
 WebSocket Protocol implementation written in Go.
 
